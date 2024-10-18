@@ -1,0 +1,1 @@
+{:deps {speclj/speclj {:mvn/version "3.5.0"}}}
